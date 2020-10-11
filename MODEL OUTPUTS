@@ -1,0 +1,19 @@
+LogisticRegression
+Accuracy Score : 0.7777777777777778
+Confusion Matrix : [[48  5]
+ [15 22]]
+
+RandomForestClassifier
+Accuracy Score : 0.7222222222222222
+Confusion Matrix : [[49  4]
+ [21 16]]
+ 
+DecisionTreeClassifier
+Accuracy Score : 0.6555555555555556
+Confusion Matrix : [[41 12]
+ [19 18]]
+ 
+KNeighborsClassifier
+Accuracy Score : 0.6444444444444445
+Confusion Matrix : [[48  5]
+ [27 10]]
